@@ -15,12 +15,12 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Job1.OutJob
+Name=
 Description=
 TargetOutputMedium=Print Job
 VariantName=[No Variations]
 VariantScope=1
-CurrentConfigurationName=
+CurrentConfigurationName=Fabrication
 TargetPrinter=HP Color LaserJet MFP M477fdw (200029)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=PDF
@@ -106,7 +106,7 @@ Configuration6_Item1=ERCClassColumnOrder=0|ERCClassColumnSort=0|ERCClassColumnVi
 [PublishSettings]
 OutputFilePath1=C:\Users\Public\Documents\Altium\CAN-Shield\Project Outputs for CAN-Shield\Docs\Job1.PDF
 ReleaseManaged1=1
-OutputBasePath1=Project Outputs for CAN-Shield
+OutputBasePath1=
 OutputPathMedia1=Docs
 OutputPathMediaValue1=Docs
 OutputPathOutputer1=
@@ -133,7 +133,7 @@ PDFACompliance1=Disabled
 PDFVersion1=Default
 OutputFilePath2=C:\Users\Public\Documents\Altium\CAN-Shield\Project Outputs for CAN-Shield\Fabrication\
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for CAN-Shield
+OutputBasePath2=
 OutputPathMedia2=Fabrication
 OutputPathMediaValue2=Fabrication
 OutputPathOutputer2=
@@ -146,7 +146,7 @@ OutputFileNameSpecial2=
 OpenOutput2=1
 OutputFilePath3=C:\Users\Public\Documents\Altium\CAN-Shield\Project Outputs for CAN-Shield\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for CAN-Shield
+OutputBasePath3=
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=
