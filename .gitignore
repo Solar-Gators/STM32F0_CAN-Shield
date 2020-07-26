@@ -11,8 +11,9 @@
 # Project Logs
 Project\ Logs*/
 
+# Modified - John Carr - We use these for CD CI
 # Project Outputs
-Project\ Outputs*/
+# Project\ Outputs*/
 
 # Auto-conversion notices
 *.PcbDoc.htm

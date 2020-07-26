@@ -1,0 +1,10 @@
+Output: Electrical Rules Check
+Type  : ERC
+From  : Project [CAN-Shield.PrjPCB]
+   Generated File[Electrical Rules Check.html]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 6:20:09 PM On 7/26/2020

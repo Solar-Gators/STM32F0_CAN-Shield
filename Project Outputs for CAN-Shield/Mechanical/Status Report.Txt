@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 6:19:59 PM On 7/26/2020
+
+Output: CAD
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [CAN-Shield.PcbDoc]
+   Generated File[CAN-Shield.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 6:20:00 PM On 7/26/2020

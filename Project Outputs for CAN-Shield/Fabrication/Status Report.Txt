@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [CAN-Shield.PcbDoc]
+   Generated File[CAN-Shield.TXT]
+   Generated File[CAN-Shield.LDP]
+   Generated File[CAN-Shield.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 6:20:16 PM On 7/26/2020
