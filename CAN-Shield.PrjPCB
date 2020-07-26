@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for CAN-Shield
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -93,294 +93,95 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
-DocumentPath=CAN-Shield.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
-DocumentPath=V1.0.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
-DocumentPath=v1.0-Drill.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
-DocumentPath=Project Outputs for CAN-Shield\CAN-Shield.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for CAN-Shield\Fabrication\CAN-Shield.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument3]
-DocumentPath=Project Outputs for CAN-Shield\Mechanical\CAN-Shield.DWG
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for CAN-Shield\CAN-Shield.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for CAN-Shield\Fabrication\CAN-Shield.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Free Documents\Gerber\CAN-Shield.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for CAN-Shield\CAN-Shield.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for CAN-Shield\Fabrication\CAN-Shield.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\Gerber\CAN-Shield.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for CAN-Shield\CAN-Shield.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument11]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for CAN-Shield\Fabrication\CAN-Shield.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Free Documents\Gerber\CAN-Shield.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument13]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for CAN-Shield\Fabrication\CAN-Shield.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Free Documents\Gerber\CAN-Shield.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for CAN-Shield\CAN-Shield.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument16]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for CAN-Shield\Fabrication\CAN-Shield.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Free Documents\Gerber\CAN-Shield.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for CAN-Shield\CAN-Shield.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument19]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for CAN-Shield\Fabrication\CAN-Shield.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Free Documents\Gerber\CAN-Shield.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for CAN-Shield\CAN-Shield.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument22]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for CAN-Shield\Fabrication\CAN-Shield.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Free Documents\Gerber\CAN-Shield.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for CAN-Shield\CAN-Shield.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument25]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for CAN-Shield\Fabrication\CAN-Shield.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument26]
-DocumentPath=Project Outputs for Free Documents\Gerber\CAN-Shield.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for CAN-Shield\CAN-Shield.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument28]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for CAN-Shield\Fabrication\CAN-Shield.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Free Documents\Gerber\CAN-Shield.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for CAN-Shield\CAN-Shield.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument31]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for CAN-Shield\Fabrication\CAN-Shield.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument32]
-DocumentPath=Project Outputs for Free Documents\Gerber\CAN-Shield.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for CAN-Shield\CAN-Shield.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument34]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for CAN-Shield\Fabrication\CAN-Shield.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument35]
-DocumentPath=Project Outputs for Free Documents\Gerber\CAN-Shield.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for CAN-Shield\CAN-Shield.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument37]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for CAN-Shield\Fabrication\CAN-Shield.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument38]
-DocumentPath=Project Outputs for Free Documents\Gerber\CAN-Shield.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for CAN-Shield\CAN-Shield.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument40]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for CAN-Shield\Fabrication\CAN-Shield.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument41]
-DocumentPath=Project Outputs for Free Documents\Gerber\CAN-Shield.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for CAN-Shield\CAN-Shield.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument43]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for CAN-Shield\Fabrication\CAN-Shield.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument44]
-DocumentPath=Project Outputs for Free Documents\Gerber\CAN-Shield.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for CAN-Shield\CAN-Shield.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument46]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for CAN-Shield\Fabrication\CAN-Shield.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument47]
-DocumentPath=Project Outputs for CAN-Shield\CAN-Shield.REP
-DItemRevisionGUID=
-
-[GeneratedDocument48]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for CAN-Shield\Fabrication\CAN-Shield.REP
 DItemRevisionGUID=
 
-[GeneratedDocument49]
-DocumentPath=Project Outputs for Free Documents\Gerber\CAN-Shield.REP
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project Outputs for CAN-Shield\CAN-Shield.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument51]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for CAN-Shield\Fabrication\CAN-Shield.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument52]
-DocumentPath=Project Outputs for Free Documents\Gerber\CAN-Shield.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument53]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for CAN-Shield\Mechanical\CAN-Shield.step
 DItemRevisionGUID=
 
-[GeneratedDocument54]
-DocumentPath=Project Outputs for CAN-Shield\CAN-Shield.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument55]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for CAN-Shield\Fabrication\CAN-Shield.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument56]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for CAN-Shield\Design Rule Check - CAN-Shield.html
 DItemRevisionGUID=
 
-[GeneratedDocument57]
-DocumentPath=Project Outputs for CAN-Shield\Design Rules Check.html
-DItemRevisionGUID=
-
-[GeneratedDocument58]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for CAN-Shield\validation\Design Rules Check.html
 DItemRevisionGUID=
 
-[GeneratedDocument59]
-DocumentPath=Project Outputs for CAN-Shield\Electrical Rules Check.html
-DItemRevisionGUID=
-
-[GeneratedDocument60]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for CAN-Shield\validation\Electrical Rules Check.html
 DItemRevisionGUID=
 
@@ -454,7 +255,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for CAN-Shield
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1214,6 +1015,36 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad v7 Capture Design
+OutputName12=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=P-CAD ASCII
+OutputName13=P-CAD ASCII (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD V16 Schematic Design
+OutputName14=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=SiSoft
+OutputName15=SiSoft (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
